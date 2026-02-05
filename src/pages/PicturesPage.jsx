@@ -15,13 +15,13 @@ export function PicturesPage() {
 
   const photos = useMemo(
     () => [
-      { src: img1, caption: 'First smile 💕' },
-      { src: img2, caption: 'That laugh 😳💗' },
-      { src: img3, caption: 'Cozy moments 🧸' },
-      { src: img4, caption: 'Little adventures ✨' },
-      { src: img5, caption: 'You being you 💖' },
-      { src: img6, caption: 'My favorite view 🥰' },
-      { src: img7, caption: 'Forever vibe 💞' },
+      { src: img1, caption: 'First steps, forever memories 💕' },
+      { src: img2, caption: 'That smile that makes everything better ☀️💖' },
+      { src: img3, caption: 'Comfort looks good on you 🤍✨' },
+      { src: img4, caption: 'Small adventures, big joy ✨💫' },
+      { src: img5, caption: 'You just being you and that’s everything 💞' },
+      { src: img6, caption: 'My favorite view, always 😍❤️' },
+      { src: img7, caption: 'Pure happiness, caught in a moment 🌿😊' },
       { src: img8, caption: 'More memories soon 💘' },
     ],
     [],
